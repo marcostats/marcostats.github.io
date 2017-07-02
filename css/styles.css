@@ -1,0 +1,60 @@
+body {
+  padding-top: 10px;
+  padding-bottom: 20px;
+    background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+#heading {
+	font-style: italic;
+}
+
+.img-width{
+	width:100%;
+}
+.navLink{
+	display: inline-block;
+	color: black;
+	margin-right: 5%;
+}
+
+.linkW{
+	color: black;
+}
+
+.navbar {
+  background: #b4bfc4;
+}
+
+.navLink a:hover {
+	color: gray;
+	text-decoration: blink;
+}
+
+.navLink a:active {
+    background-color: #b9bfc4;
+}
+.TitleNav {
+	font-size: 20px;
+}
+.FirstCont{
+	margin-top:20px;
+}
+
+.img-circle{
+	width: 100%;
+}
+
+.card-title{
+	font-style: italic;
+	color: black;
+}
+
+
+
+
+
+
+
+
